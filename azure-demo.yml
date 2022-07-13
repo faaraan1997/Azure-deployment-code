@@ -1,0 +1,10 @@
+name: project_environment
+dependencies:
+
+- python=3.6.2
+
+- pip:
+  - azureml-defaults
+
+channels:
+- conda-forge
